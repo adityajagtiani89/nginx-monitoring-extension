@@ -1,6 +1,6 @@
 # AppDynamics Nginx - Monitoring Extension
 
-This extension works only with standalone machine agent.
+This extension works only with standalone Java machine agent.
 
 ##Use Case
 
